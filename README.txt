@@ -1,5 +1,4 @@
 #Example Repository
-This is a sampel repo, Hello! Coders
+This is a sample repo, Hello! Coders
 
-
-This is second file 
+This is changes in file
